@@ -1,5 +1,5 @@
 # JARVIS
-Just a rather very intelligent system
+Just a rather very intelligent system developed by me
 
 It is an effort to create a more helpful but maybe not as sophisticated as others out there or not as human Virtual Assistant for PC users.
 
