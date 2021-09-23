@@ -4,7 +4,7 @@ Just a rather very intelligent system
 It is an effort to create a more helpful but maybe not as sophisticated as others out there or not as human Virtual Assistant for PC users.
 
 **Requirements**
-1. Python 3.7.x
+1. Python 3.9.x
 2. Visual Studio C++ Build Tools
 3. Visual Studio Community or Professional or Enterprise with C++ desktop development workload
 
@@ -14,7 +14,7 @@ It is an effort to create a more helpful but maybe not as sophisticated as other
 ```pip install -r requirements.txt```  
 3. Run ```jarvis_v3.py```  
 4. Download & install rainmeter from [Rainmeter.net](https://www.rainmeter.net/)  
-5. Open .rmskin file downloaded from the latest release at [JARVIS releases](https://github.com/pratit989/J.A.R.V.I.S/releases)
+
 
 **Usage**  
 1. Take a look at ```vocabulary.py``` in project root directory for keywords that trigger specific actions.
@@ -33,7 +33,3 @@ Install all dependencies with
 ### Result:
 ![webcam](output/recog_trim.gif)
 
-### References:
-- MobileFaceNet: [link1](https://arxiv.org/abs/1804.07573), [link2](https://github.com/yangxue0827/MobileFaceNet_Tensorflow)
-- UltraLight: [link](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
-- FacialFeatures: [link](https://github.com/ageitgey/face_recognition)
